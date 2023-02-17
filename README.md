@@ -23,3 +23,7 @@
 
 ###  iStore Chełm - Apprenticer
 ####  09.2018 - 06.2019 
+#### - Customer service
+#### - Hardware and accessories retail
+#### - Hardware diagnostics, component replacemenets
+#### - Preparing computers to customer's use
