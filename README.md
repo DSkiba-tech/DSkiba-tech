@@ -27,3 +27,6 @@
 #### - Hardware and accessories retail
 #### - Hardware diagnostics, component replacemenets
 #### - Preparing computers to customer's use
+
+## Certifications and courses:
+#### ISTQB CTFL 10.2022
