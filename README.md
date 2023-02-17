@@ -35,6 +35,10 @@
 #### Polish - Native
 #### English - B1/B2
 
+## My side interestings are:
+#### Cooking, especially asian and streetfood
+#### Computer games, especially MMORPG and Open World
+#### Cognitive psychology
 
 
 
