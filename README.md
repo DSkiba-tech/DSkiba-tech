@@ -4,6 +4,12 @@
 
 
 
-#### When it comes to my personality, the best words that describes me are:
+
+### When it comes to my personality, the best words that describes me are:
 
 ### ****Carefulness, Self-control, Logical thinking, Curiosity, Openness, Flexibility****
+
+
+### As a software interested person my hard skills are related, which are:
+
+### Tools:
