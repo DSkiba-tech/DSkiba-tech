@@ -16,7 +16,10 @@
 
 ###  uTest.com - Manual tester 
 ####  08.2022 - currently 
-####  Regression, exploratory, confirmation testing, test case execution, reporting issues, writing reviews 
+#### - Regression, exploratory, confirmation testing
+#### - Test case execution
+#### - Reporting issues
+#### - Writing reviews
 
 ###  iStore Chełm - Apprenticer
 ####  09.2018 - 06.2019 
