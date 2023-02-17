@@ -14,9 +14,9 @@
 
 ## My IT work experience:
 
-####  uTest.com - Manual tester 
+###  uTest.com - Manual tester 
 ####  08.2022 - currently 
 ####  Regression, exploratory, confirmation testing, test case execution, reporting issues, writing reviews 
 
-####  iStore Chełm - Apprenticer
+###  iStore Chełm - Apprenticer
 ####  09.2018 - 06.2019 
