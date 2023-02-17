@@ -30,3 +30,11 @@
 
 ## Certifications and courses:
 #### ISTQB CTFL 10.2022
+
+## Languages with knowledge level:
+#### Polish - Native
+#### English - B1/B2
+
+
+
+
