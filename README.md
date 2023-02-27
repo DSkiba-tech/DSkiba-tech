@@ -2,15 +2,15 @@
 
 ## My name is Damian and here I'm storing some of my creations.
 
-## When it comes to my personality, the best words that describes me are:
-
-#### Carefulness, Self-control, Logical thinking, Curiosity, Openness, Flexibility
-
 ## As a software interested person my hard skills are related to, which are:
 
 ####  Basic level languages: MySQL, FrontEnd(JS, HTML, CSS), C++ 
 ####  Operating systems: Windows (with command line), Linux (with console), Android 
-####  Other tools: JIRA, MS Office, Git/GitHub, XAMPP, ADB, Charles Proxy 
+####  Other tools: JIRA, MS Office, Git/GitHub, XAMPP, ADB, Charles Proxy
+
+## When it comes to my personality, the best words that describes me are:
+
+#### Carefulness, Self-control, Logical thinking, Curiosity, Openness, Flexibility
 
 ## My IT work experience:
 
