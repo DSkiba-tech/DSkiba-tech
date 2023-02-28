@@ -6,7 +6,7 @@
 
 ####  Basic level languages: MySQL, FrontEnd(JS, HTML, CSS), C++ 
 ####  Operating systems: Windows (with command line), Linux (with console), Android 
-####  Other tools: JIRA, MS Office, Git/GitHub, XAMPP, ADB, Charles Proxy
+####  Other tools: JIRA, MS Office, Git/GitHub, XAMPP, ADB, Charles Proxy, DevTools
 
 ## When it comes to my personality, the best words that describes me are:
 
