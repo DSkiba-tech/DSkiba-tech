@@ -2,6 +2,12 @@
 
 ## My name is Damian and here I'm storing some of my creations.
 
+## My Github repositories guide
+
+#### https://github.com/DSkiba-tech/TestPortfolio - This is my portfolio, where I create test suites and test cases for Steam web app. Also I do automate them.
+#### https://github.com/DSkiba-tech/Margonem-addons - Here I stored addons which were created by myself for Margonem MMORPG players.
+#### https://github.com/DSkiba-tech/SpojFunnyProblems - Sphere Online Judge (SPOJ) allows to check programming skills including difficulty levels. I decided to store my solutions, because solving them was making me happy. Wrote using C++ language.
+
 ## As a software interested person my hard skills are related to, which are:
 
 ####  Basic level languages: MySQL, FrontEnd(JS, HTML, CSS), C++ 
