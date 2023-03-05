@@ -10,9 +10,10 @@
 
 ## As a software interested person my hard skills are related to, which are:
 
-####  Basic level languages: MySQL, FrontEnd(JS, HTML, CSS), C++ 
+####  Basic level languages: MySQL, FrontEnd(JS, HTML, CSS)
 ####  Operating systems: Windows (with command line), Linux (with console), Android 
 ####  Other tools: JIRA, MS Office, Git/GitHub, XAMPP, ADB, Charles Proxy, DevTools
+####  Others I know minimally: Postman, C++
 
 ## When it comes to my personality, the best words that describes me are:
 
